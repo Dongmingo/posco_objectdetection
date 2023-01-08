@@ -1,3 +1,5 @@
 .ipynb_checkpoints/*
 /VOC2007
 /logs
+*/.pyc/*
+
