@@ -2,4 +2,4 @@
 /VOC2007
 /logs
 */.pyc/*
-
+/__pycache__
